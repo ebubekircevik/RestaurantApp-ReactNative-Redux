@@ -2,13 +2,6 @@
 **Steps to Bootstrap the Program**
 <p align="center">
 1) Clone the repository.
-2) Navigate to the directory containing the package.json file.
-3) Run the command npm install.
-4) Start the project with npm run start.
-5) 
-  - To run with Expo, scan the QR code.
-  - To run on the iOS simulator, press 'i'.
-  - To run on the Android simulator, press 'a'.
 </p>
 
 <p align="center">
