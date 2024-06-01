@@ -1,7 +1,6 @@
 # Nice demo to understand for react native basics
-<p align="center">
 **Steps to Bootstrap the Program**
-
+<p align="center">
 1) Clone the repository.
 2) Navigate to the directory containing the package.json file.
 3) Run the command npm install.
