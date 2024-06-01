@@ -1,5 +1,8 @@
 # Nice demo to understand for react native basics
-**Steps to Bootstrap the Program**
+<p align="center">
+<strong>Steps to Bootstrap the Program</strong>
+</p>
+
 <p align="center">
 1) Clone the repository.
 </p>
