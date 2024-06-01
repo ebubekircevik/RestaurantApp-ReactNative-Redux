@@ -9,6 +9,8 @@
 <p align="center">4) Start the project with npm run start.</p>
 <p align="center">5) 
   <p align="center">  - To run with Expo, scan the QR code.</p>
+  <p align="center">  - To run on the iOS simulator, press 'i'.</p>
+  <p align="center">  - To run on the Android simulator, press 'a'.</p>
 </p>
 
 
