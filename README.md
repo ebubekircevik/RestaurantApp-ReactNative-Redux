@@ -1,6 +1,6 @@
 # Nice demo to understand for react native basics
 <p align="center">
-  <strong>Steps to Bootstrap the Program</strong>
+  <strong>Steps to Execute the Project</strong>
 </p>
 
 <p align="center">1) Clone the repository.</p>
